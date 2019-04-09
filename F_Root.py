@@ -26,4 +26,4 @@ A = sample(range(-10, 10), 10)
 B = sample(range(-10, 10), 10)
 C = sample(range(-10, 10), 10)
 for i in range(10):
-    F_Root(A[i], B[i], C[i])
+    F_Root(A[i], B[i], C[i]) 
