@@ -1,5 +1,5 @@
-# 牟家辰/Jiachen Mu    
+# Jiachen Mu    
 
-班级：经济统计学17    
-学号：2017310855    
-邮箱：j.mu@foxmail.com
+Class: Economic Stat 17
+Stuid: 2017310855    
+Email: j.mu@foxmail.com
